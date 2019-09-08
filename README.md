@@ -10,7 +10,7 @@ There is a flappy monster instead flappy bird :)
 
 https://iamalperen.github.io/demo/flappy-monster-game/
 
-## Schreenshots of the Game 
+## Screenshots of the Game 
 
 ![](https://github.com/alperentalaslioglu/flappy-monster-game/raw/master/gameplaying.png)
 ![](https://github.com/alperentalaslioglu/flappy-monster-game/raw/master/gameover.png)
