@@ -8,9 +8,9 @@ There is a flappy monster instead flappy bird :)
 
 ## Demo
 
-http://www.alperen.me/demo/flappy-monster-game/
+https://iamalperen.github.io/demo/flappy-monster-game/
 
-## Caps 
+## Schreenshots of the Game 
 
 ![](https://github.com/alperentalaslioglu/flappy-monster-game/raw/master/gameplaying.png)
 ![](https://github.com/alperentalaslioglu/flappy-monster-game/raw/master/gameover.png)
